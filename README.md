@@ -3,7 +3,7 @@ This is the content of the Introduction to Machine Learning Course organized by 
 
 Para trabajar con los notebooks puedes:
 
-    1. Clonar en tu equipo este contenido git clone https://github.com/SaturdaysAI/Itinerario_MachineLearning
+    1. Clonar en tu equipo este contenido git clone https://github.com/Giffy/AI_Intro-to-Machine-Learning.git
     2. Ejecutarlo con Google Colab online.
     3. Ejectuarlo con Jupyter online usando mybinder.
 
