@@ -1,25 +1,21 @@
-# Into-to-Machine-Learning
-This is the content of the Introduction to Machine Learning Course organized by Saturdays AI Barcelona
+# Machine-Learning track
+This is the content of Machine Learning track organized for the 4th season of Saturdays AI Barcelona.
 
-Para trabajar con los notebooks puedes:
+All notebooks run in Google Colab, if you want to run locally, you can clone the repository using the command:
 
-    1. Clonar en tu equipo este contenido git clone https://github.com/Giffy/AI_Intro-to-Machine-Learning.git
-    2. Ejecutarlo con Google Colab online.
-    3. Ejectuarlo con Jupyter online usando mybinder.
-
-Para poder graduarse en el programa AI Saturdays, con la mención "Machine Learning", hay que superar al menos el contenido de este itinerario. Estos ejercicios están pensandos para representar poco más del 50% del contenido de la fase "code2learn" en AI Saturdays, por tanto, en tu ciudad seguro hacéis muchas más cosas y más divertidas, pero haz estos ejercicios para asegurar unos fundamentos fuertes sobre los que luego construirás un proyecto espectacular en la fase "build2learn".
-
-Troncal:
-
-## 1 - Cleaning & Exploratory Data Pandas:
-Objetivo: familiarizarse con Pandas y Numpy, como limpiar y explorar datos. Estructuras de datos en python. Dinámica: a mitad de la sesión cambia a los fellows de mesa.
-
-Slides intro ML
-Notebook Pandas
-Assigment 1: Titanic
-Assigment 2:
+git clone https://github.com/Giffy/AI_Intro-to-Machine-Learning.git
 
 
-## 2 - Regression, Decision Trees:
-Objetivo: Empezar a entender conceptos básicos, como montar un modelo de ML, empezar a usar sci-kit learn a través de regresiones lineales y árboles de decisión. Dinámicas: Kahoot + premio al equipo que gane el challenge.
 
+## Machine Learning Track
+
+    1.- Cleaning & Exploratory Data Analysis
+    2.- Linear & Logistic Regression
+    3.- Decision Trees, Random Forest & Boosting
+    4.- Support Vector Machine & k-NN
+    5.- Dimensionality reduction - Principal Component Analysis
+    6.- Gradient Descent & Neural Networks
+    7.- NLP
+    8.- Genetic Algorithms
+    9.- Time Series Analysis
+    10.- Visualizing Data
