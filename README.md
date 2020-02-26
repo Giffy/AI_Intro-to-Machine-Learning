@@ -14,8 +14,8 @@ git clone https://github.com/Giffy/AI_Intro-to-Machine-Learning.git
     3.- Decision Trees, Random Forest & Boosting
     4.- Support Vector Machine & k-NN
     5.- Dimensionality reduction - Principal Component Analysis
-    6.- Gradient Descent & Neural Networks
-    7.- NLP
-    8.- Genetic Algorithms
-    9.- Time Series Analysis
-    10.- Visualizing Data
+    6.- Intro to Deep Learning
+    7.- Visualizing Data
+    8.- Recommenders
+    9.- Genetic Algorithms
+    10.- Time Series Analysis
