@@ -17,5 +17,6 @@ git clone https://github.com/Giffy/AI_Intro-to-Machine-Learning.git
     6.- Intro to Deep Learning
     7.- Visualizing Data
     8.- Recommenders
-    9.- Genetic Algorithms
-    10.- Time Series Analysis
+    9.- WebScrapping
+    10.- Genetic Algorithms
+    
