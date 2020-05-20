@@ -19,5 +19,7 @@ git clone https://github.com/Giffy/AI_Intro-to-Machine-Learning.git
     8.- Recommenders
     9.- WebScrapping
     10.- Genetic Algorithms
-    
+ 
+
+## Click image to open an empty Jupyter notebook
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/giffy/AI_Intro-to-Machine-Learning/master)
