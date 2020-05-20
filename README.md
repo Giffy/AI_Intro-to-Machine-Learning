@@ -20,3 +20,4 @@ git clone https://github.com/Giffy/AI_Intro-to-Machine-Learning.git
     9.- WebScrapping
     10.- Genetic Algorithms
     
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/giffy/AI_Intro-to-Machine-Learning/master)
