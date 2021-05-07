@@ -17,7 +17,7 @@ git clone https://github.com/Giffy/AI_Intro-to-Machine-Learning.git
     6.- Intro to Deep Learning
     7.- Visualizing Data
     8.- Recommenders
-    9.- WebScrapping
+    9.- WebScrapping   https://colab.research.google.com/github/Giffy/AI_Intro-to-Machine-Learning/blob/master/Coursera_Deep_Learning_Specialization.ipynb
     10.- Genetic Algorithms
  
 
