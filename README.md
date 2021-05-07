@@ -17,9 +17,12 @@ git clone https://github.com/Giffy/AI_Intro-to-Machine-Learning.git
     6.- Intro to Deep Learning
     7.- Visualizing Data
     8.- Recommenders
-    9.- WebScrapping   https://colab.research.google.com/github/Giffy/AI_Intro-to-Machine-Learning/blob/master/Coursera_Deep_Learning_Specialization.ipynb
+    9.- WebScrapping  
     10.- Genetic Algorithms
  
 
 ## Click image to open an empty Jupyter notebook
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/giffy/AI_Intro-to-Machine-Learning/master)
+
+## Click over the link to open in Google Colab
+9- Webscrapping https://colab.research.google.com/github/Giffy/AI_Intro-to-Machine-Learning/blob/master/Session-9/Intro_to_web_scraping.ipynb
